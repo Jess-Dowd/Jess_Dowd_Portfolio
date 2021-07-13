@@ -210,7 +210,7 @@ function App() {
                       </a>
                     </div>
                     <div class="info">
-                      <a className="projectss" href="https://www.linkedin.com/in/jessdoesreact/" target='_blank'>
+                      <a className="projectss" href="https://github.com/Jess-Dowd/around-react/blob/main/README.md" target='_blank'>
                         <img className="project_link" src={demo} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
@@ -441,7 +441,7 @@ function App() {
         <nav className="main-menu">
           <ul className="list">
             <li>
-              <a href="intro" className="menu-item">
+              <a href="#intro" className="menu-item">
                 <img src={home} className="fa fa-home fa-2x"></img>
                 <span className="nav-text">
                   Home

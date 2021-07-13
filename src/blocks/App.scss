@@ -10,7 +10,8 @@ html {
   color: white;
   line-height: 1.6;
   // position: relative;
-  font-family: 'whiterabbit';
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  -webkit-font-smoothing: antialiased;
   // overflow: auto;
 }
 
@@ -202,7 +203,6 @@ html {
   border-collapse:collapse;
   border-spacing:0;
   color:white;
-   font-family:'whiterabbit';
   font-size: 14px;
   text-decoration:none;
   /* // -webkit-transform:translateZ(0) scale(1,1); */
@@ -225,7 +225,6 @@ html {
   display:table-cell;
   vertical-align:middle;
   width:75px;
-    font-family: 'whiterabbit';
   }
   
   .main-menu>ul.logout {
@@ -274,7 +273,6 @@ html {
   }
   
   @font-face {
-    font-family: 'whiterabbit';
     font-style: normal;
     font-weight: 300;
     src: local('Titillium WebLight'), local('TitilliumWeb-Light'), url(http://themes.googleusercontent.com/static/fonts/titilliumweb/v2/anMUvcNT0H1YN4FII8wpr24bNCNEoFTpS2BTjF6FB5E.woff) format('woff');
@@ -318,7 +316,6 @@ html {
       padding-top: 10px;
       margin-top: -10px;
       li {
-          font-family: 'whiterabbit';
           color: #0FFF50;
           font-weight: 700;
           padding: 0 10px;
@@ -377,7 +374,6 @@ html {
 
 
 // .main {
-//   font-family: 'whiterabbit', ;
 //   display: flex;
 //   align-items: center;
 //   justify-content: center;
@@ -396,12 +392,11 @@ margin: auto;
 }
 
 .typing-demo {
-width: 11ch;
+width: 12ch;
 animation: typing 2s steps(22), blink .5s step-end infinite alternate;
 white-space: nowrap;
 overflow: hidden;
 border-right: 3px solid;
-font-family: 'whiterabbit';
 font-size: 1em;
 margin-left: 100px;
 }
@@ -451,7 +446,6 @@ box-sizing: border-box !important;
 .name {
   font-size: 14px;
   color: white;
-  font-family: 'whiterabbit';
   font-weight: 100;
   width: 75vw;
   margin: auto;
