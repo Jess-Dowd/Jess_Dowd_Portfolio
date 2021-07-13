@@ -49,7 +49,7 @@ function App() {
           <h1 className="wrapper wordCarousel title">
 
             <div className="typing-demo">
-              Hi! I"m Jess. A
+              Hi! I'm Jess. A
             </div>
 
             <div>
@@ -192,7 +192,7 @@ function App() {
                 <div class="back">
                   <div class="inner">
                     <div class="info">
-                      <a className="projectss" href="https://jess-dowd.github.io/Around_The_U.S/" target='_blank'>
+                      <a className="projectss" href="https://jess-dowd.github.io/around-react/" target='_blank'>
                         <img className="project_link" src={webpage} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
@@ -201,7 +201,7 @@ function App() {
                       </a>
                     </div>
                     <div class="info">
-                      <a className="projectss" href="https://github.com/Jess-Dowd/Around_The_U.S" target='_blank'>
+                      <a className="projectss" href="https://github.com/Jess-Dowd/around-react" target='_blank'>
                         <img className="project_link" src={code} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
@@ -223,8 +223,8 @@ function App() {
                       <p>This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.</p>
                     </div>
                     <div class="location">
-                      <img className="stack" src={html} />
-                      <img className="stack" src={js} />
+                      <img className="stack" src={react} />
+                      <img className="stack" src={jsx} />
                       <img className="stack" src={css} />
                       <img className="stack" src={json} />
                       <img className="stack" src={api} />
@@ -252,7 +252,7 @@ function App() {
                 <div class="back">
                   <div class="inner">
                     <div class="info">
-                      <a className="projectss" href="https://jess-dowd.github.io/Around_The_U.S/" target='_blank'>
+                      <a className="projectss" href="https://jess-dowd.github.io/Jess_Dowd_Portfolio/" target='_blank'>
                         <img className="project_link" src={webpage} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
@@ -261,7 +261,7 @@ function App() {
                       </a>
                     </div>
                     <div class="info">
-                      <a className="projectss" href="https://github.com/Jess-Dowd/Around_The_U.S" target='_blank'>
+                      <a className="projectss" href="https://github.com/Jess-Dowd/Jess_Dowd_Portfolio" target='_blank'>
                         <img className="project_link" src={code} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
@@ -283,11 +283,11 @@ function App() {
                       <p>This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.</p>
                     </div>
                     <div class="location">
-                      <img className="stack" src={html} />
-                      <img className="stack" src={js} />
-                      <img className="stack" src={css} />
+                      <img className="stack" src={react} />
+                      <img className="stack" src={jsx} />
+                      <img className="stack" src={sass} />
                       <img className="stack" src={json} />
-                      <img className="stack" src={api} />
+
                     </div><div class="price"></div>
                     <label for="card3" class="button return" aria-hidden="true">
                       <i class="fas fa-arrow-left"></i>
@@ -312,7 +312,7 @@ function App() {
                 <div class="back">
                   <div class="inner">
                     <div class="info">
-                      <a className="projectss" href="https://jess-dowd.github.io/Around_The_U.S/" target='_blank'>
+                      <a className="projectss" href="https://jess-dowd.github.io/From_Portland_to_Portland/" target='_blank'>
                         <img className="project_link" src={webpage} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
@@ -321,20 +321,11 @@ function App() {
                       </a>
                     </div>
                     <div class="info">
-                      <a className="projectss" href="https://github.com/Jess-Dowd/Around_The_U.S" target='_blank'>
+                      <a className="projectss" href="https://github.com/Jess-Dowd/From_Portland_to_Portland" target='_blank'>
                         <img className="project_link" src={code} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
                           <span>Code</span>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="info">
-                      <a className="projectss" href="https://www.linkedin.com/in/jessdoesreact/" target='_blank'>
-                        <img className="project_link" src={demo} />
-                        <div class="icon">
-                          <i class="fas fa-users"></i>
-                          <span>Demo</span>
                         </div>
                       </a>
                     </div>
@@ -344,10 +335,7 @@ function App() {
                     </div>
                     <div class="location">
                       <img className="stack" src={html} />
-                      <img className="stack" src={js} />
                       <img className="stack" src={css} />
-                      <img className="stack" src={json} />
-                      <img className="stack" src={api} />
                     </div><div class="price"></div>
                     <label for="card4" class="button return" aria-hidden="true">
                       <i class="fas fa-arrow-left"></i>
@@ -372,7 +360,7 @@ function App() {
                 <div class="back">
                   <div class="inner">
                     <div class="info">
-                      <a className="projectss" href="https://jess-dowd.github.io/Around_The_U.S/" target='_blank'>
+                      <a className="projectss" href="https://jess-dowd.github.io/Learning_How_to_Learn/" target='_blank'>
                         <img className="project_link" src={webpage} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
@@ -381,20 +369,11 @@ function App() {
                       </a>
                     </div>
                     <div class="info">
-                      <a className="projectss" href="https://github.com/Jess-Dowd/Around_The_U.S" target='_blank'>
+                      <a className="projectss" href="https://github.com/Jess-Dowd/Learning_How_to_Learn" target='_blank'>
                         <img className="project_link" src={code} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
                           <span>Code</span>
-                        </div>
-                      </a>
-                    </div>
-                    <div class="info">
-                      <a className="projectss" href="https://www.linkedin.com/in/jessdoesreact/" target='_blank'>
-                        <img className="project_link" src={demo} />
-                        <div class="icon">
-                          <i class="fas fa-users"></i>
-                          <span>Demo</span>
                         </div>
                       </a>
                     </div>
@@ -404,10 +383,7 @@ function App() {
                     </div>
                     <div class="location">
                       <img className="stack" src={html} />
-                      <img className="stack" src={js} />
                       <img className="stack" src={css} />
-                      <img className="stack" src={json} />
-                      <img className="stack" src={api} />
                     </div><div class="price"></div>
                     <label for="card5" class="button return" aria-hidden="true">
                       <i class="fas fa-arrow-left"></i>
@@ -416,8 +392,6 @@ function App() {
                 </div>
               </div>
             </div>
-
-
           </div>
         </div>
 
@@ -434,9 +408,6 @@ function App() {
                     <i class="fas fa-users"></i>
                     <span>Jessalyndowd@gmail.com </span>
                   </div>
-
-
-
                 </div>
                 <div id="contact">
 
@@ -445,9 +416,6 @@ function App() {
                     <i class="fas fa-users"></i>
                     <span>+66 62 398 6762</span>
                   </div>
-
-
-
                 </div>
                 <div id="contact">
 
@@ -456,21 +424,9 @@ function App() {
                     <i class="fas fa-users"></i>
                     <span>MO, USA - Remote</span>
                   </div>
-
-
-
                 </div>
-
-
-
               </div>
               <p id="work" >Open to Work - Updated 07/2021</p>
-              {/* <div id='contacts'>
-                <div class='link' id='github'><a href='https://github.com/beetrandahiya' ><i class="fab fa-github"></i></a></div>
-                <div class='link' id='insta'><a href='https://instagram.com/prakrishtdahiya' target='_blank'><i class="fab fa-instagram"></i></a></div>
-                <div class='link' id='dribbble'><a href='https://dribbble.com/beetran' ><i class="fab fa-dribbble"></i></a></div>
-
-              </div> */}
             </div>
           </div>
         </div>
