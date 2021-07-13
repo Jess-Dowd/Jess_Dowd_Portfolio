@@ -285,8 +285,8 @@ function App() {
                       </a>
                     </div>
                     <div class="description">
-                      <p>--section under contruction--</p>
-                      <p>--section under contruction--</p>
+                      <p>This is my porfolio website! Come take a look to see some of my past work and get to know a little more about me. You can find my contqact info here if you would like to chat or even work together!</p>
+                      <p>Stack: React, JSX, Sass</p>
                     </div>
                     <div class="location">
                       <img className="stack" src={react} />
