@@ -181,7 +181,7 @@ function App() {
             </div>
 
             <div class="card">
-              <a ></a>
+              
               <input type="checkbox" id="card2" class="more" aria-hidden="true" />
               <div class="content">
                 <div class="front" >
@@ -244,6 +244,7 @@ function App() {
             </div>
 
             <div class="card">
+              
               <input type="checkbox" id="card3" class="more" aria-hidden="true" />
               <div class="content">
                 <div class="front" >
@@ -303,6 +304,7 @@ function App() {
             </div>
 
             <div class="card">
+            
               <input type="checkbox" id="card4" class="more" aria-hidden="true" />
               <div class="content">
                 <div class="front" >
@@ -334,9 +336,11 @@ function App() {
                       </a>
                     </div>
                     <div class="description">
-                    <p>This is my portfolio website. Take a look to get to knowe a little more about me, to see some of my past work, and find my contact info if you would like to chat, or work together!</p>
+                    <p>From Portland to Portland. An epic bicycle journey from Portland, ME to Portland, OR.</p>
                       <br/>
-                      <p>stack: React, JSX, SASS</p>
+                      <p>A responsive website using HTML5, CSS3 (flexbox, grid, BEM), built following to design mokup in Figma. Uded BEM methodology with a nested file structure. The project adapts to the width of various devices (from 320px to 1280px).</p>
+                      <br/>
+                   <p>Stack: HTML5, CSS3, Flexbox, BEM</p>
                    
                     </div>
                     <div class="location">
@@ -352,6 +356,7 @@ function App() {
             </div>
 
             <div class="card">
+              
               <input type="checkbox" id="card5" class="more" aria-hidden="true" />
               <div class="content">
                 <div class="front" >
