@@ -149,7 +149,7 @@ function App() {
                       </a>
                     </div>
                     <div class="info">
-                      <a className="projectss" href="https://www.linkedin.com/in/jessdoesreact/" target='_blank'>
+                      <a className="projectss" href="https://github.com/Jess-Dowd/Around_The_U.S/blob/main/README.md" target='_blank'>
                         <img className="project_link" src={demo} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
@@ -158,8 +158,11 @@ function App() {
                       </a>
                     </div>
                     <div class="description">
-                      <p>Around The U.S. is a adaptive web app built with HTML, CSS, and JavaScript</p>
-                      <p>This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.</p>
+                      <p>A responsive website using HTML5, CSS3 (flexbox, grid, BEM), built following to design mokup in Figma. JavaScript is used to add functionality to Form Fields in a Popup Box and save the edited values.</p>
+                      <br/>
+                      <p>Form Popup Modal: editing profile information, adding/deleting cards with images and titles unsing a link to photo and Forms are validated using javascript. Image popup for each card with Delete and Like button.</p>
+                      <br/>
+                   <p>Stack: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript, DOM, Debugging Git, Figma, Form validation, OOP, Webpack</p>
                     </div>
                     <div class="location">
                       <img className="stack" src={html} />
@@ -178,7 +181,7 @@ function App() {
             </div>
 
             <div class="card">
-              <a id="projects"></a>
+              <a ></a>
               <input type="checkbox" id="card2" class="more" aria-hidden="true" />
               <div class="content">
                 <div class="front" >
@@ -219,8 +222,11 @@ function App() {
                       </a>
                     </div>
                     <div class="description">
-                      <p>Around The U.S. is a adaptive web app built with HTML, CSS, and JavaScript</p>
-                      <p>This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.</p>
+                    <p>The previous project takes the one before from vanilla JS to React using the Create React App. The React Framework is used to add functionality to Form Fields in a Popup Box and save the edited values. Used BEM methodology with a nested file structure.</p>
+                      <br/>
+                      <p>A responsive website using HTML5, CSS3 (flexbox, grid, BEM), JavaScript, built following the design mokup in Figma. This adaptive page includes form validation, interactive popups, fade-in and fade-out animations, functional like and delete buttons, modular JavaScript, and Object Oriented JS design.</p>
+                      <br/>
+                   <p>Stack: HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React hooks</p>
                     </div>
                     <div class="location">
                       <img className="stack" src={react} />
@@ -238,7 +244,6 @@ function App() {
             </div>
 
             <div class="card">
-              <a id="projects"></a>
               <input type="checkbox" id="card3" class="more" aria-hidden="true" />
               <div class="content">
                 <div class="front" >
@@ -270,7 +275,7 @@ function App() {
                       </a>
                     </div>
                     <div class="info">
-                      <a className="projectss" href="https://www.linkedin.com/in/jessdoesreact/" target='_blank'>
+                      <a className="projectss" href="https://github.com/Jess-Dowd/Jess_Dowd_Portfolio/blob/main/README.md" target='_blank'>
                         <img className="project_link" src={demo} />
                         <div class="icon">
                           <i class="fas fa-users"></i>
@@ -279,8 +284,8 @@ function App() {
                       </a>
                     </div>
                     <div class="description">
-                      <p>Around The U.S. is a adaptive web app built with HTML, CSS, and JavaScript</p>
-                      <p>This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.</p>
+                      <p>--section under contruction--</p>
+                      <p>--section under contruction--</p>
                     </div>
                     <div class="location">
                       <img className="stack" src={react} />
@@ -298,7 +303,6 @@ function App() {
             </div>
 
             <div class="card">
-              <a id="projects"></a>
               <input type="checkbox" id="card4" class="more" aria-hidden="true" />
               <div class="content">
                 <div class="front" >
@@ -330,8 +334,10 @@ function App() {
                       </a>
                     </div>
                     <div class="description">
-                      <p>Around The U.S. is a adaptive web app built with HTML, CSS, and JavaScript</p>
-                      <p>This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.</p>
+                    <p>This is my portfolio website. Take a look to get to knowe a little more about me, to see some of my past work, and find my contact info if you would like to chat, or work together!</p>
+                      <br/>
+                      <p>stack: React, JSX, SASS</p>
+                   
                     </div>
                     <div class="location">
                       <img className="stack" src={html} />
@@ -346,7 +352,6 @@ function App() {
             </div>
 
             <div class="card">
-              <a id="projects"></a>
               <input type="checkbox" id="card5" class="more" aria-hidden="true" />
               <div class="content">
                 <div class="front" >
@@ -378,8 +383,11 @@ function App() {
                       </a>
                     </div>
                     <div class="description">
-                      <p>Around The U.S. is a adaptive web app built with HTML, CSS, and JavaScript</p>
-                      <p>This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data. This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.This projects utilizes principles of OOP and is linked to an API to allow exchange of user data.</p>
+                    <p>Learning how to learn. This page describes different study techniques and methods along with resources to learn more.</p>
+                      <br/>
+                      <p>A simple one-page website using HTML5 and CSS3 It has an adaptive design that responds to most common screen sizes. Developed with vsc and gitbash. Used BEM for clean code and Figma for website specifications.</p>
+                      <br/>
+                   <p>Stack: HTML5, CSS3, Flexbox, BEM</p>
                     </div>
                     <div class="location">
                       <img className="stack" src={html} />
