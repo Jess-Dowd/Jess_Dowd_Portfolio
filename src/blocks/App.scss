@@ -429,6 +429,7 @@ box-sizing: border-box !important;
     rgba(248, 248, 246, 0.7)
   );;
   z-index: 1001;
+ 
 }
 
 .about__image {
@@ -444,7 +445,7 @@ box-sizing: border-box !important;
   border: none;
 }
 .name {
-  font-size: 14px;
+  font-size: 18px;
   color: white;
   font-weight: 100;
   width: 75vw;
@@ -566,9 +567,10 @@ background: linear-gradient(
 }
 .our-team {
   width: auto;
+  height: 100%;
 }
 .our-team:hover .social {
-  bottom: 70px;
+  bottom: -10px;
 }
 
 .our-team .social li {

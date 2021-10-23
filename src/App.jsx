@@ -427,7 +427,7 @@ function App() {
                   <img className="project_link" src={phone} />
                   <div class="icon">
                     <i class="fas fa-users"></i>
-                    <span>+66 62 398 6762</span>
+                    <span>+1 573 245 2164</span>
                   </div>
                 </div>
                 <div id="contact">
@@ -435,11 +435,11 @@ function App() {
                   <img className="project_link" src={location} />
                   <div class="icon">
                     <i class="fas fa-users"></i>
-                    <span>MO, USA - Remote</span>
+                    <span>MO, USA</span>
                   </div>
                 </div>
               </div>
-              <p id="work" >Open to Work - Updated 07/2021</p>
+              <p id="work" >Open to Work - Updated 08/2021</p>
             </div>
           </div>
         </div>
