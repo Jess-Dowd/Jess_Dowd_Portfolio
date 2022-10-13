@@ -54,9 +54,9 @@ function App() {
 
             <div>
               <ul className="flip4">
-                <li>Software Engineer</li>
+                <li>Wordpress Developer</li>
                 <li>React Specialist</li>
-                <li>Front End Web Developer</li>
+                <li>Front End Engineer</li>
                 <li></li>
               </ul>
             </div>
@@ -179,6 +179,54 @@ function App() {
                 </div>
               </div>
             </div>
+
+
+            <div class="card">
+              
+              <input type="checkbox" id="card2" class="more" aria-hidden="true" />
+              <div class="content">
+                <div class="front" >
+                  <div class="inner">
+                    <h2>Atreo.io</h2>
+                    <label for="card2" class="button" aria-hidden="true">
+                      Details
+                    </label>
+                  </div>
+                </div>
+                <div class="back">
+                  <div class="inner">
+                    <div class="info">
+                      <a className="projectss" href="https://atreo.io/" target='_blank'>
+                        <img className="project_link" src={webpage} />
+                        <div class="icon">
+                          <i class="fas fa-users"></i>
+                          <span>Website</span>
+                        </div>
+                      </a>
+                    </div>
+                
+                    <div class="description">
+                    <p>This project was built for a medical device startup in California in 2022. I was the lead developer and personally built most of the site features from scratch based on PSD design</p>
+                      <br/>
+                      <p>A responsive custom website using HTML5, CSS3 (flexbox, grid, BEM), bootstrap, JavaScript, built following the design mockup in PSD. This adaptive page includes form validation, interactive popups, fade-in and fade-out animations, API integration functional blog and careers page, modular JavaScript, and Object Oriented JS design.</p>
+                      <br/>
+                   <p>Stack: Wordpress CMS, PHP, HTML5, Bootstrap, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React hooks</p>
+                    </div>
+                    <div class="location">
+                      <img className="stack" src={react} />
+                      <img className="stack" src={jsx} />
+                      <img className="stack" src={css} />
+                      <img className="stack" src={json} />
+                      <img className="stack" src={api} />
+                    </div> <div class="price"></div>
+                    <label for="card2" class="button return" aria-hidden="true">
+                      <i class="fas fa-arrow-left"></i>
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </div>
+
 
             <div class="card">
               
