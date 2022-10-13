@@ -419,7 +419,7 @@ function App() {
                   <img className="project_link" src={email} />
                   <div class="icon">
                     <i class="fas fa-users"></i>
-                    <span>Jessalyndowd@gmail.com </span>
+                    <span>contactjessdowd@gmail.com </span>
                   </div>
                 </div>
                 <div id="contact">
@@ -427,7 +427,7 @@ function App() {
                   <img className="project_link" src={phone} />
                   <div class="icon">
                     <i class="fas fa-users"></i>
-                    <span>+1 573 245 2164</span>
+                    <span>+1-573-309-8784</span>
                   </div>
                 </div>
                 <div id="contact">
@@ -435,11 +435,11 @@ function App() {
                   <img className="project_link" src={location} />
                   <div class="icon">
                     <i class="fas fa-users"></i>
-                    <span>MO, USA</span>
+                    <span>MO, USA (Remote)</span>
                   </div>
                 </div>
               </div>
-              <p id="work" >Open to Work - Updated 08/2021</p>
+              <p id="work" >Open to Work - Updated 10/2022</p>
             </div>
           </div>
         </div>
@@ -490,7 +490,7 @@ function App() {
 
             </li>
             <li>
-              <a href="https://www.linkedin.com/in/jessdoesreact/" className="menu-item" target="_blank">
+              <a href="https://www.linkedin.com/in/jessdoeswordpress/" className="menu-item" target="_blank">
                 <img src={linkedIn} className="fa fa-bar-chart-o fa-2x"></img>
                 <span className="nav-text">
                   LinkedIn
