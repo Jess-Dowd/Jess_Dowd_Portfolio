@@ -235,7 +235,7 @@ function App() {
                 <div class="front" >
                   <div class="inner">
                     <h2>Around The U.S - React</h2>
-                    <label for="card2" class="button" aria-hidden="true">
+                    <label for="card6" class="button" aria-hidden="true">
                       Details
                     </label>
                   </div>
@@ -283,7 +283,7 @@ function App() {
                       <img className="stack" src={json} />
                       <img className="stack" src={api} />
                     </div> <div class="price"></div>
-                    <label for="card2" class="button return" aria-hidden="true">
+                    <label for="card6" class="button return" aria-hidden="true">
                       <i class="fas fa-arrow-left"></i>
                     </label>
                   </div>
