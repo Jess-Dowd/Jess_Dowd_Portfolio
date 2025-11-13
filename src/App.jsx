@@ -81,7 +81,7 @@ function App() {
                       Web development calls to all my passions; it incorporates creativity and problem solving and I"m allowed to break it to improve the code (in a separate Git branch, of course). I love applying responsive design principles and watching my web pages shrink into mobile screens and still look amazing. It"s oddly satisfying. I think in a way I"m kind of like those web pages; I"m moldable, but I still keep my creative flair intact.
                       Even when I leave the office, I tend to continue writing code at home. Working freelance, I design, build, and maintain websites for small businesses.</h3>
                     <br />
-                    <h4 className="name"> I am a Finance Major with a background in eCommerce and I find an interesting crossover between my software and my business experience. Both pursuits challenge so many aspects of the intellect: creativity, organization, sequential processing, problem-solving. This is what keeps me up at night, a never-ending thirst to create beautiful, powerful things and share them with the world.
+                    <h4 className="name"> I am a Computer Science Major with a background in International Business Administration and I find an interesting crossover between my software and my business experience. Both pursuits challenge so many aspects of the intellect: creativity, organization, sequential processing, problem-solving. This is what keeps me up at night, a never-ending thirst to create beautiful, powerful things and share them with the world.
                       My specialties include Wordpress CMS, Front-End development, React, JSX, CSS, quickly learning new skills and languages, problem-solving, domain-driven design, responsive design principles, website optimization, and BEM methods of organizing code. I"m still enthusiastically learning any other programming languages, frameworks, or principles I can integrate into the coding web in my head.</h4>
                   </div>
 
@@ -92,7 +92,7 @@ function App() {
                         GitHub
                       </span>
                     </a></li>
-                    <li> <a href="https://www.linkedin.com/in/jessdoeswordpress/" className="menu-item" target="_blank">
+                    <li> <a href="https://www.linkedin.com/in/jessdoesanalysis/" className="menu-item" target="_blank">
                       <img src={linkedIn} className="fa fa-bar-chart-o fa-2x q"></img>
                       <span className="nav-text w">
                         LinkedIn
@@ -230,7 +230,7 @@ function App() {
 
             <div class="card">
               
-              <input type="checkbox" id="card2" class="more" aria-hidden="true" />
+              <input type="checkbox" id="card6" class="more" aria-hidden="true" />
               <div class="content">
                 <div class="front" >
                   <div class="inner">
